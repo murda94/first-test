@@ -1,5 +1,8 @@
 # Hand Sound Control
 
+## Goal
+The main purpose of this project is to create an interactive music instrument that can be controlled using hand geasture and color/object tracking.
+
 ## Environment
 
 OS: MacOS Mojave
@@ -22,7 +25,9 @@ conda create -n myenv python=3.6
 
 - Activate the new environment: 
 
-`conda activate myenv`
+```
+conda activate myenv
+```
 
 - Install dependencies: `
 
@@ -33,11 +38,6 @@ conda install pythonosc
 ```
 
 
-
-Super Collider
-
-## Goal
-The main purpose of this project is to create an interactive music instrument that can be controlled using hand geasture and color/object tracking .
 
 
 
