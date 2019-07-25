@@ -86,7 +86,9 @@ Press `b` to capture the background model (remember to move your hand out of the
 Move your hand in the rectangle and set the optimal threshold in order to isolate completely the hand from background
 
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.17.png" align="left" width="200">
+
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.32.png" align="left" width="200">
+
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.58.png" align="left" width="240">
 
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.43.png" align="rigth" width="140">
