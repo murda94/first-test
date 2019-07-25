@@ -69,6 +69,18 @@ jupyter-lab
 3. Create new terminal window on Jupyter and run the 'ciao bello' script
 
 
+## How to play instrument 
+
+* press `b` to capture the background model (Remember to move your hand out of the rectangle before press `b`)
+*
+*
+*
+* press `r` and `b` to reset and re-capture the backgroud model
+* press `ESC` to exit
+
+
+
+
 
 
 
