@@ -8,23 +8,29 @@ Platform: Python 3.6
 
 ## Requirements
 
+* Install Super Collider: https://supercollider.github.io/download
+
 * Install Anaconda: https://www.anaconda.com/distribution/#download-section
 
 ##### Open terminal
 
 * Create a virtual environment: 
 
-```conda create -n myenv python=3.6```
+`conda create -n myenv python=3.6`
 
-- Activate the new environment: conda activate myenv
+- Activate the new environment: 
 
-- Install dependencies: conda install numpy
+`conda activate myenv`
+
+- Install dependencies: `
+
+```
+conda install numpy
+conda install opencv
+conda install pythonosc
+```
 
 
-
-OpenCv2
-Numpy
-Pythonosc
 
 Super Collider
 
