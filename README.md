@@ -13,8 +13,7 @@ Platform: Python 3.6
 ##### Open terminal
 
 * Create a virtual environment: 
-
-" conda create -n myenv python=3.6 "
+'conda create -n myenv python=3.6'
 
 - Activate the new environment: conda activate myenv
 
