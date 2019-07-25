@@ -1,15 +1,16 @@
 # Hand Sound Control
 
-### Goal
+## Goal
 The main purpose of this project is to create an interactive music instrument that can be controlled using hand geasture and color/object tracking.
+Once choose the preferred rythm and melody, the musician could play the instrument using left hand as a pick and the right hand as a tool in order the choose the note.
 
-### Environment
+## Environment
 
 OS: MacOS Mojave
 
 Platform: Python 3.6
 
-### Requirements
+## Requirements
 
 * Install Super Collider: https://supercollider.github.io/download
 
@@ -36,6 +37,10 @@ conda install numpy
 conda install opencv
 conda install pythonosc
 ```
+
+## How to run it
+
+
 
 
 
