@@ -12,11 +12,13 @@ Platform: Python 3.6
 
 * Install Anaconda: https://www.anaconda.com/distribution/#download-section
 
-##### Open terminal
+#### Open terminal
 
 * Create a virtual environment: 
 
-`conda create -n myenv python=3.6`
+```
+conda create -n myenv python=3.6
+```
 
 - Activate the new environment: 
 
