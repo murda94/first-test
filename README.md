@@ -66,7 +66,7 @@ conda activate myenv
 jupyter-lab
 ```
 
-3. Run the 'ciao bello' script
+3. Create new terminal window on Jupyter and run the 'ciao bello' script
 
 
 
