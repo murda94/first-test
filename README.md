@@ -103,6 +103,11 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 
 <br />
 
+<br />
+
+<br />
+
+<br />
 
 Press `r` and `b` to reset and re-capture the backgroud model
 Press `ESC` to exit
