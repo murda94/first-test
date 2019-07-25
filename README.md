@@ -86,8 +86,15 @@ jupyter-lab
 -Move your hand in the rectangle and set the optimal threshold in order to isolate completely the hand from background
 
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.17.png" align="left" width="200">
-<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.32.png" align="right" width="200">
-<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.21.44.png" align="center" width="200">
+<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.32.png" align="left" width="200">
+<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.43.png" align="left" width="200">
+
+
+
+
+
+
+
 
 
 * press `r` and `b` to reset and re-capture the backgroud model
