@@ -40,7 +40,7 @@ conda install pythonosc
 
 ## How to run it
 
-### Part 1 : Super Collider
+### Super Collider
 
 Open the script  ''ciao bello'' in Super Collider and follow the procedure below:
 
@@ -50,7 +50,35 @@ Open the script  ''ciao bello'' in Super Collider and follow the procedure below
    - Synth initalization
     - Communication initalization
      - Tempo clock initalization
-      - Tempo Function
+      - Tempo function
+      
+### Python
+
+1. Open terminal and activate virtual environment:
+
+```
+conda activate myenv
+```
+
+2. Open Jupyer Lab
+
+```
+jupyter-lab
+```
+
+3. Run the 'ciao bello' script
+
+
+
+
+
+
+
+      
+      
+      
+      
+ 
 
 
 
