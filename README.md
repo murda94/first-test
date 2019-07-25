@@ -71,10 +71,21 @@ jupyter-lab
 
 ## How to play instrument 
 
-- press `b` to capture the background model (Remember to move your hand out of the rectangle before press `b`)
-*
-*
-*
+Place Blue pencil in box 4/4 or 6/8 in order to choose two different types of rythms
+
+
+
+Place Green pencil in box 4/4 or 6/8 in order to choose two different types of melodies
+
+
+
+
+
+Press `b` to capture the background model (remember to move your hand out of the rectangle before press `b`)
+
+Move your hand in the rectangle and set the optimal threshold in order to isolate completely the hand from background
+
+
 * press `r` and `b` to reset and re-capture the backgroud model
 * press `ESC` to exit
 
