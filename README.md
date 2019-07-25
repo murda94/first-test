@@ -71,22 +71,23 @@ jupyter-lab
 
 ## How to play instrument 
 
--Place green pencil in box 4/4 or 6/8 in order to choose two different types of rythms
+- Place green pencil in box 4/4 or 6/8 in order to choose two different types of rythms
 
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.21.35.png" align="center" width="200">
 
 
--Place blue pencil in box 4/4 or 6/8 in order to choose two different types of melodies
+- Place blue pencil in box 4/4 or 6/8 in order to choose two different types of melodies
 
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.21.44.png" align="center" width="200">
 
 
--Press `b` to capture the background model (remember to move your hand out of the rectangle before press `b`)
+- Press `b` to capture the background model (remember to move your hand out of the rectangle before press `b`)
 
 -Move your hand in the rectangle and set the optimal threshold in order to isolate completely the hand from background
 
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.17.png" align="left" width="200">
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.32.png" align="left" width="200">
+<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.43.png" align="left" width="200">
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.04.43.png" align="left" width="200">
 
 
