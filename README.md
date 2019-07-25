@@ -71,7 +71,7 @@ jupyter-lab
 
 ## How to play instrument 
 
-* press `b` to capture the background model (Remember to move your hand out of the rectangle before press `b`)
+- press `b` to capture the background model (Remember to move your hand out of the rectangle before press `b`)
 *
 *
 *
