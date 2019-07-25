@@ -46,6 +46,7 @@ Open the script  ''ciao bello'' in Super Collider and follow the procedure below
 
 1. Compile first only `s.boot` line using `cmd + enter` in order to initialize the server
 2. Compile separately (using `cmd + enter`) the following part:
+
    - Synth initalization
     - Communication initalization
      - Tempo clock initalization
