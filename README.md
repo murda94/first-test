@@ -71,6 +71,8 @@ jupyter-lab
 
 ## How to play instrument 
 
+<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2010.34.30.png" align="left" width="200">
+
 Place green pencil in box 4/4 or 6/8 in order to choose two different types of rythms
 
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-25%20alle%2016.21.35.png" align="center" width="200">
@@ -97,8 +99,6 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 <br /><br /><br /><br /><br /><br/>
 
 #### Play instrument
-
-<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2010.34.30.png" align="left" width="200">
 
 1. Use middle finger as a guitar peak (each transition beetween one and two finger (and viceversa) correspond to an exciation)
 
