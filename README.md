@@ -120,6 +120,11 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 - Press `q` to stop sound and restart
 
 
+## Extension Javascript
+
+
+
+
 
 
 
