@@ -135,6 +135,12 @@ OpenSoundControl.js documentation: https://www.npmjs.com/package/osc-js
 
 Supercollider.js documentation: https://crucialfelix.github.io/supercolliderjs/ 
 
+## Author
+
+Gianluca Murdaca - gianlucamurdaca@gmail.com
+
+Copyright © 2019 - Gianluca Murdaca - all rights reserved.
+
 
 
 
