@@ -117,7 +117,7 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 
 - Press `ESC` to exit
 
--Press `s` to stop sound
+- Press `s` to stop sound
 
 
 
