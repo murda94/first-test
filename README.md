@@ -74,7 +74,7 @@ jupyter-lab
    <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2012.08.37.png" align="left" width="350"><br /><br /><br /><br /><br />
 GUI
 
-<br /><br /><br /><br /><br /><br />
+<br/><br/><br /><br/>
 -----------------------------
 Place green pencil in box 4/4 or 6/8 in order to choose two different types of rythms
 
