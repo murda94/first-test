@@ -111,8 +111,13 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 
 <br /><br /><br /><br/><br /><br /><br /><br/>
 
-Press `r` and `b` to reset and re-capture the backgroud model
-Press `ESC` to exit
+#### Utilities
+
+- Due to the sensibility of background subtraction algorithm, if there is any changes in background press `r` and `b` to reset and re-capture the backgroud model
+
+- Press `ESC` to exit
+
+-Press `s` to stop sound
 
 
 
