@@ -71,8 +71,8 @@ jupyter-lab
 
 ## How to play instrument 
 
-<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2012.08.37.png" align="left" width="300"><br /><br />
-Interface
+<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2012.08.37.png" align="left" width="300"><br /><br /><br />
+GUI
 
 <br /><br /><br /><br /><br /><br />
 -----------------------------
