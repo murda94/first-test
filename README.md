@@ -98,6 +98,8 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 
 #### Play instrument
 
+<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2010.34.30.png" align="left" width="200">
+
 1. Use middle finger as a guitar peak (each transition beetween one and two finger (and viceversa) correspond to an exciation)
 
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2010.34.30.png" align="left" width="200">
