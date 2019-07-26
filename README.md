@@ -96,6 +96,12 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 
 <br /><br /><br /><br /><br /><br />
 
+### Play instrument
+
+1. Use middle finger as a guitar peak (each transition beetween one and two finger (and viceversa) correspond to an exciation)
+
+2. Place green pencil in the note boxs to play the associate notes
+
 
 
 Press `r` and `b` to reset and re-capture the backgroud model
