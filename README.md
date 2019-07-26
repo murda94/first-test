@@ -127,7 +127,7 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 
 ## Extension Javascript
 
-It is possible to extend the project into a web application,indeed all the libraries used here exist also in javascript:
+It is possible to extend the project into a web application,indeed all the libraries used here are supported also in javascript:
 
 OpenCV.js documantation: https://docs.opencv.org/3.4/d5/d10/tutorial_js_root.html
 
@@ -140,45 +140,3 @@ Supercollider.js documentation: https://crucialfelix.github.io/supercolliderjs/
 Gianluca Murdaca - gianlucamurdaca@gmail.com
 
 Copyright © 2019 - Gianluca Murdaca - all rights reserved.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-      
-      
-      
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
