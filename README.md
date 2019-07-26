@@ -101,7 +101,7 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 1. Use middle finger as a guitar peak (each transition beetween one and two finger (and viceversa) correspond to an exciation)
 
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2010.34.30.png" align="left" width="240">
-<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2010.34.30.png" align="left" width="240"><br /><br /><br /><br/>
+<img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2010.34.58.png" align="left" width="240"><br /><br /><br /><br/>
 
 
 2. Place green pencil in the note boxs to play the associate notes
