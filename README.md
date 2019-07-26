@@ -127,6 +127,22 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 
 ## Extension Javascript
 
+It is possible to extend the project into a web application,indeed all the libraries used here exist also in javascript:
+
+OpenCV.js documantation: https://docs.opencv.org/3.4/d5/d10/tutorial_js_root.html
+
+OpenSoundControl.js documentation: https://www.npmjs.com/package/osc-js
+
+Supercollider.js documentation: https://crucialfelix.github.io/supercolliderjs/ 
+
+
+
+
+
+
+
+
+
 
 
 
