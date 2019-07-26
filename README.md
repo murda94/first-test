@@ -103,14 +103,13 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2010.34.30.png" align="left" width="200">
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2010.34.58.png" align="left" width="200">
 
-<br /><br /><br /><br/><br /><br /><br /><br/><br /><br /><br/>
-
+<br /><br /><br /><br/><br /><br /><br /><br/><br /><br />
 
 2. Place green pencil in the note boxs to play the associate notes
 
 <img src="https://github.com/murda94/first-test/blob/master/images/Schermata%202019-07-26%20alle%2010.33.52.png" align="left" width="200">
 
-<br /><br /><br /><br/><br /><br /><br /><br/><br /><br /><br/>
+<br /><br /><br /><br/><br /><br /><br /><br/>
 
 Press `r` and `b` to reset and re-capture the backgroud model
 Press `ESC` to exit
