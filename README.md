@@ -125,7 +125,7 @@ Move your hand in the rectangle and set the optimal threshold in order to isolat
 - Press `q` to stop sound and restart
 
 
-## Extension Javascript
+## Javascript Extension 
 
 It is possible to extend the project into a web application,indeed all the libraries used here are supported also in javascript:
 
