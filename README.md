@@ -4,6 +4,8 @@
 The main purpose of this project is to create an interactive music instrument that can be controlled using hand geasture and color/object tracking.
 Once choose the preferred rythm and melody, the musician could play the instrument using left hand as a pick and the right hand as a tool that can modify the note played.
 
+#### Video Demo: https://youtu.be/MODumbpeako
+
 ## Environment
 
 OS: MacOS Mojave
