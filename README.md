@@ -42,7 +42,7 @@ conda install pythonosc
 
 ### Super Collider
 
-Open the script  ''ciao bello'' in Super Collider and follow the procedure below:
+Open the script  ''handsoundcontrol_supercollider.scd '' in Super Collider and follow the procedure below:
 
 1. Compile first only `s.boot` line using `cmd + enter` in order to initialize the server
 2. Compile separately (using `cmd + enter`) the following part:
@@ -66,7 +66,7 @@ conda activate myenv
 jupyter-lab
 ```
 
-3. Create new terminal window on Jupyter and run the 'ciao bello' script
+3. Create new terminal window on Jupyter and run the 'handsoundcontrol.py' script
 
 
 ## How to play instrument 
